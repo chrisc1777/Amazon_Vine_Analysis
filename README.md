@@ -8,14 +8,17 @@ I've downloaded a big dataset containing technology product reviews from Amazon.
 
 ## Results
 Number of Vine reviews and non-Vine reviews
+
 ![ava1](https://user-images.githubusercontent.com/106359564/224214575-5d290bc9-5487-46fc-acd3-f4e5882bfbd7.png)
 
 
 Number of 5-star rating reviews from Vine reviews and non-Vine reviews
+
 ![ava2](https://user-images.githubusercontent.com/106359564/224214582-f39014c0-aff8-48a9-960f-ea30cf63d61a.png)
 
 
 Percentage of 5-star rating reviews from Vine reviews and  non-Vine reviews
+
 ![ava3](https://user-images.githubusercontent.com/106359564/224214588-a242603b-363e-4720-bbdd-6dc0984fd0a1.png)
 
 
