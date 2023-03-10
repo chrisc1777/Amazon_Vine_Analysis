@@ -14,7 +14,7 @@ Number of Vine reviews and non-Vine reviews
 
 Number of 5-star rating reviews from Vine reviews and non-Vine reviews
 
-![ava2](https://user-images.githubusercontent.com/106359564/224214582-f39014c0-aff8-48a9-960f-ea30cf63d61a.png)
+![ava2](https://user-images.githubusercontent.com/106359564/224215168-fe9425b7-a140-4206-ae10-d978669f10bc.png)
 
 
 Percentage of 5-star rating reviews from Vine reviews and  non-Vine reviews
